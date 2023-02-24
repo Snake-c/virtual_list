@@ -12,7 +12,7 @@ for(let i = 0; i<100; i++){
   let a = "数据: " + i;
   aaa.push({id: i, value: a})
 }
-
+// 测试
 export default {
   name: 'App',
   data() {
